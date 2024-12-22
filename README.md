@@ -1,4 +1,4 @@
-# Netflix Dashboard Analysis 🎥📊
+# Netflix Dashboard Analysis
 
 ![Netflix Dashboard Screenshot](netflix_dashboard.png)
 
